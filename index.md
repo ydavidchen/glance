@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Glance: The world as your fashion consultant
 
 You can use the [editor on GitHub](https://github.com/ydavidchen/glance.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
