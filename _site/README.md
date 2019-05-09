@@ -1,14 +1,13 @@
-# Creative Theme for Jekyll
+# Glance: a World's Fashion Consultant
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+## The Team:
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+* Jared Heath
+* David Chen
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+## Acknowlegements:
 
-## To use the Creative Theme template in your project
+We would like to thank [Dartmouth CS65/165](https://www.cs.dartmouth.edu/~campbell/cs65/cs65.html) instructor, TAs, and classmates. In addition, we acknowledge sources used for building our website:
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+* Domain name from [Freenom](https://my.freenom.com/)
+* [Creative Bootstram/CSS Template](https://github.com/volny/creative-theme-jekyll)
